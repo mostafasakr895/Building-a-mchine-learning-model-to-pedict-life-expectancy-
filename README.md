@@ -1,0 +1,2 @@
+# Gapminder-World-data-analysis
+Gapminder has collected a lot of information about how people live heir lives in different countries, racked across the years, and on a umber of different indicators. For this project I selected child mortality, income, life expectancy, and population indicators.  I am going to clean and merge these indicators into one DataFrame then going deep analyzing It tracking the relations between different indicators trying to get insights to make decisions that should make our life better.
